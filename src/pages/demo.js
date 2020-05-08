@@ -22,6 +22,7 @@ export default () => (
         height="50px"
         background="gray"
       ></SlidingSelection>
+      12345
     </div>
 
   </div>
